@@ -88,6 +88,7 @@ https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive
 
 ### 2.1. Mapping Camera Pose to RGB Image as Backbone of Gaussian Splatting
 https://drive.google.com/file/d/1LKPbh0ZxWrzt2fgGq5xURzwVWgrVdVeS/view?usp=drive_link
+
 https://drive.google.com/file/d/1cG7L0fI8KEgUHvixH7AfiFguqSopG9lG/view?usp=drive_link
 
 
