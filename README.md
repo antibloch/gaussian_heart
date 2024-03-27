@@ -5,7 +5,7 @@
 ![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/a8f7712f-702f-436b-a537-81bd90529be5)
 
 
-### Rendering Results
+### Real time training and rendering
 https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=sharing
 
 
@@ -63,8 +63,7 @@ https://drive.google.com/file/d/1TisU1tV9IhhbO3ME9ovoQTc4ZBAWrHND/view?usp=drive
 https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive_link
 
 
-### Real time training and rendering
-https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=sharing
+
 
 
 
