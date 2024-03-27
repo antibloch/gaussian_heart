@@ -85,13 +85,24 @@ https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=shari
 
 ![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/8db23fc2-cedb-4607-bc47-356f80455d6f)
 
-
+### Pretrained Diffusion Prior as Backbone of Gaussian Splatting
+https://drive.google.com/file/d/1LKPbh0ZxWrzt2fgGq5xURzwVWgrVdVeS/view?usp=drive_link
+https://drive.google.com/file/d/1cG7L0fI8KEgUHvixH7AfiFguqSopG9lG/view?usp=drive_link
 
 
 ### Comparison of Stage-1 and Stage-2 Output
 https://drive.google.com/file/d/1ytsvpKLIwV1tlmiaARKFr7ilmx5aDHYR/view?usp=sharing
 
 https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=sharing
+
+
+
+## Future Works
+### Nerf without parameters
+
+-- Nerf without parameters
+-- Neuralangelo (its individual componets have been worked upon)
+-- Improving point cloud representing with Zero: 1-2-3
 
 
 ![desk_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/10603047-5d58-40ec-b695-7db9464f8eee)
@@ -106,13 +117,10 @@ https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=shari
 
 
 
-# Nerf with parameters
 
 
 
--- Nerf without parameters
--- Neuralangelo (its individual componets have been worked upon)
--- Improving point cloud representing with Zero: 1-2-3
+
 
 
 
