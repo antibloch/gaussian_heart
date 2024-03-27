@@ -101,7 +101,11 @@ https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=shari
 ### Nerf without parameters
 
 -- Nerf without parameters
+
+
 -- Neuralangelo (its individual componets have been worked upon)
+
+
 -- Improving point cloud representing with Zero: 1-2-3
 
 
