@@ -21,11 +21,16 @@ https://drive.google.com/file/d/1YO2t6D0MmVpA04h4do4FzLXZQKWmOPki/view?usp=shari
 
 ## Approximating 3D Point Cloud with 3D Gaussians and then Projecting Points and Gaussians to 2D plane
 
-### Ref Rendering
+### Reference Rendering
 https://drive.google.com/file/d/1EoyGrwSLRJECsmUyEd3rhsog5ANs1uGK/view?usp=drive_link
 
 ### Gaussian based Rendering
 https://drive.google.com/file/d/1dKQEe4DF2GLS42bSAcy1LoWAVdGssGiU/view?usp=sharing
+
+### Effect of Hyperparameters
+https://drive.google.com/file/d/1VLtboq7snArnGjeBs7W981nNPorlOhdm/view?usp=sharing
+
+
 
 
 
