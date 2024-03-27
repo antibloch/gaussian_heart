@@ -1,8 +1,10 @@
 # Gaussian the Shroodinger's Cat
 
+![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/a8f7712f-702f-436b-a537-81bd90529be5)
 
-![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/f2b4b3bb-32f2-41e8-a193-248a6ebca362)
 
+## Rendering Results
+https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=sharing
 
 
 ## Approximating Image with 2D Gaussian
@@ -84,7 +86,12 @@ https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=shari
 
 ## DreamGaussian
 
+
+![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/4718866f-044a-4a74-aee2-6a843ecc84da)
+
+
 https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=sharing
+
 
 ![desk_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/10603047-5d58-40ec-b695-7db9464f8eee)
 
