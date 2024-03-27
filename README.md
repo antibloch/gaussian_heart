@@ -56,14 +56,6 @@ https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive
 
 
 
--- Nerf without parameters
--- Neuralangelo (its individual componets have been worked upon)
--- Improving point cloud representing with Zero: 1-2-3
-
-
-
-
-
 
 
 
@@ -76,6 +68,21 @@ https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive
 ## DreamGaussian
 
 https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+-- Nerf without parameters
+-- Neuralangelo (its individual componets have been worked upon)
+-- Improving point cloud representing with Zero: 1-2-3
+
+
 
 
 
