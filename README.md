@@ -86,7 +86,7 @@ https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive
 
 ![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/8db23fc2-cedb-4607-bc47-356f80455d6f)
 
-### Pretrained Diffusion Prior as Backbone of Gaussian Splatting
+### Mapping Camera Pose to RGB Image as Backbone of Gaussian Splatting
 https://drive.google.com/file/d/1LKPbh0ZxWrzt2fgGq5xURzwVWgrVdVeS/view?usp=drive_link
 https://drive.google.com/file/d/1cG7L0fI8KEgUHvixH7AfiFguqSopG9lG/view?usp=drive_link
 
