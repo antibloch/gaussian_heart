@@ -1,4 +1,4 @@
-# Gaussian the Shroodinger's Cat
+# Introduction of Gaussian Function into Rendering
 
 ![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/a8f7712f-702f-436b-a537-81bd90529be5)
 
@@ -88,6 +88,8 @@ https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=shari
 
 
 ![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/4718866f-044a-4a74-aee2-6a843ecc84da)
+
+
 
 
 https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=sharing
