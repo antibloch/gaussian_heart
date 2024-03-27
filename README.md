@@ -83,8 +83,7 @@ https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=shari
 
 ## DreamGaussian
 
-
-![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/4718866f-044a-4a74-aee2-6a843ecc84da)
+![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/8db23fc2-cedb-4607-bc47-356f80455d6f)
 
 
 
