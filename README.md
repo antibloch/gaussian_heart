@@ -4,6 +4,13 @@
 ## Approximating Image with 2D Gaussian
 https://drive.google.com/file/d/1J28Y-mxXk8i5E9HhaplPZKQkSwkhN4qu/view?usp=drive_link
 
+### Comparison of Splat Numbering
+#### 100 Splats
+https://drive.google.com/file/d/1ltsq_9Ri469USjnBw5opx6TbHEOmlDeD/view?usp=sharing
+
+#### 500 Splats
+https://drive.google.com/file/d/1h33vSN7GYtXxzBZ1CLDf0-YuNkqcSjWk/view?usp=sharing
+
 
 
 ## Approximating Image with 3D Gaussian
@@ -51,6 +58,12 @@ https://drive.google.com/file/d/1TisU1tV9IhhbO3ME9ovoQTc4ZBAWrHND/view?usp=drive
 https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive_link
 
 
+## Real time training and rendering
+https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=sharing
+
+
+
+
 
 
 
@@ -69,12 +82,19 @@ https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive
 
 https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=sharing
 
+![desk_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/10603047-5d58-40ec-b695-7db9464f8eee)
+
+
+![bulldozer_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/c2d5d580-e75c-4efc-bcdc-d8cdf97553ae)
 
 
 
 
 
 
+
+
+# Nerf with parameters
 
 
 
