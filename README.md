@@ -48,9 +48,6 @@ https://drive.google.com/file/d/1vtAheuQ_iOmOi7uX0aR76Ge3lYApfCbQ/view?usp=shari
 
 ## Comparison of Output
 
-### Comparison of Stage-1 and Stage-2 Output
-https://drive.google.com/file/d/1ytsvpKLIwV1tlmiaARKFr7ilmx5aDHYR/view?usp=sharing
-
 
 ### Lego Bulldozer: Train vs Test
 https://drive.google.com/file/d/15bbiPrhZRFZPjEjRU7S9Ikkxx2UBTzyO/view?usp=sharing
@@ -91,6 +88,9 @@ https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=shari
 
 
 
+
+### Comparison of Stage-1 and Stage-2 Output
+https://drive.google.com/file/d/1ytsvpKLIwV1tlmiaARKFr7ilmx5aDHYR/view?usp=sharing
 
 https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=sharing
 
