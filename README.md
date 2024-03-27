@@ -12,13 +12,16 @@ https://drive.google.com/file/d/177gq0HyPMX5qBCGiX3VMURhziZ0GAJFP/view?usp=shari
 ### 1.2. Approximating Image with 2D Gaussian
 https://drive.google.com/file/d/1J28Y-mxXk8i5E9HhaplPZKQkSwkhN4qu/view?usp=drive_link
 
+
+
 ### 1.3. Comparison of Splat Numbering
+
+
 #### 1.3.1. 100 Splats
 https://drive.google.com/file/d/1ltsq_9Ri469USjnBw5opx6TbHEOmlDeD/view?usp=sharing
 
 #### 1.3.2. 500 Splats
 https://drive.google.com/file/d/1h33vSN7GYtXxzBZ1CLDf0-YuNkqcSjWk/view?usp=sharing
-
 
 
 ### 1.4. Approximating Image with 3D Gaussian
@@ -34,13 +37,15 @@ https://drive.google.com/file/d/1vp0NTCzieo5Lzrpdz5LEwTN2Awl84QVi/view?usp=shari
 #### 1.5.2. Epochs: 1000, Points: 50000, Splats: 500
 https://drive.google.com/file/d/1YO2t6D0MmVpA04h4do4FzLXZQKWmOPki/view?usp=sharing
 
+
+
 ### 1.6. Approximating 3D Point Cloud with 3D Gaussians and then Projecting Points and Gaussians to 2D plane
 
 #### 1.6.1. Reference Rendering
 https://drive.google.com/file/d/1EoyGrwSLRJECsmUyEd3rhsog5ANs1uGK/view?usp=drive_link
 
 #### 1.6.2. Gaussian based Rendering
-https://drive.google.com/file/d/1dKQEe4DF2GLS42bSAcy1LoWAVdGssGiU/view?usp=sharing
+https://drive.google.com/file/d/1UbxR3GOjFkGBz4lmioB5B7xeC_8qiweI/view?usp=drive_link
 
 ### 1.7. Effect of Hyperparameters
 https://drive.google.com/file/d/1vtAheuQ_iOmOi7uX0aR76Ge3lYApfCbQ/view?usp=sharing
@@ -61,20 +66,6 @@ https://drive.google.com/file/d/1QtYhsZzvg10HwDZLKvKwvJr6k1fUXXVn/view?usp=drive
 https://drive.google.com/file/d/1TisU1tV9IhhbO3ME9ovoQTc4ZBAWrHND/view?usp=drive_link
 
 https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive_link
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
