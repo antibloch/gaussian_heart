@@ -1,6 +1,10 @@
 # Gaussian the Shroodinger's Cat
 
 
+![image](https://github.com/antidianuj/gaussian_heart/assets/47445756/f2b4b3bb-32f2-41e8-a193-248a6ebca362)
+
+
+
 ## Approximating Image with 2D Gaussian
 https://drive.google.com/file/d/1J28Y-mxXk8i5E9HhaplPZKQkSwkhN4qu/view?usp=drive_link
 
