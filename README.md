@@ -91,9 +91,13 @@ https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=shari
 
 
 ## 3. Future Works
-### 3.1. Nerf without parameters
 
 -- Nerf without parameters
+
+![desk_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/10603047-5d58-40ec-b695-7db9464f8eee)
+
+
+![bulldozer_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/c2d5d580-e75c-4efc-bcdc-d8cdf97553ae)
 
 
 -- Neuralangelo (its individual componets have been worked upon)
@@ -102,10 +106,8 @@ https://drive.google.com/file/d/1WL7-rR662ktqyGrrSFzaEqPIHjwTrb6b/view?usp=shari
 -- Improving point cloud representing with Zero: 1-2-3
 
 
-![desk_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/10603047-5d58-40ec-b695-7db9464f8eee)
 
 
-![bulldozer_img](https://github.com/antidianuj/gaussian_heart/assets/47445756/c2d5d580-e75c-4efc-bcdc-d8cdf97553ae)
 
 
 
