@@ -57,15 +57,15 @@ https://drive.google.com/file/d/1vtAheuQ_iOmOi7uX0aR76Ge3lYApfCbQ/view?usp=shari
 
 
 #### 1.8.1. Lego Bulldozer: Train vs Test
-https://drive.google.com/file/d/15bbiPrhZRFZPjEjRU7S9Ikkxx2UBTzyO/view?usp=sharing
+Training performance: https://drive.google.com/file/d/15bbiPrhZRFZPjEjRU7S9Ikkxx2UBTzyO/view?usp=sharing
 
-https://drive.google.com/file/d/1QtYhsZzvg10HwDZLKvKwvJr6k1fUXXVn/view?usp=drive_link
+Test Performance: https://drive.google.com/file/d/1QtYhsZzvg10HwDZLKvKwvJr6k1fUXXVn/view?usp=drive_link
 
 
 #### 1.8.2. Train: Train vs Test
-https://drive.google.com/file/d/1TisU1tV9IhhbO3ME9ovoQTc4ZBAWrHND/view?usp=drive_link
+Training performance: https://drive.google.com/file/d/1TisU1tV9IhhbO3ME9ovoQTc4ZBAWrHND/view?usp=drive_link
 
-https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive_link
+Test performance: https://drive.google.com/file/d/1V1n6BteJ2oFTiEqFfM23wz_luNuqjBGh/view?usp=drive_link
 
 
 
